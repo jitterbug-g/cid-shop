@@ -28,13 +28,13 @@
   </div>
   <?php } ?>
   <div class="column">
-    <h3><?php echo $text_extra; ?></h3>
+    <!--<h3><?php echo $text_extra; ?></h3>
     <ul>
       <li><a href="<?php echo $manufacturer; ?>"><?php echo $text_manufacturer; ?></a></li>
       <li><a href="<?php echo $voucher; ?>"><?php echo $text_voucher; ?></a></li>
       <li><a href="<?php echo $affiliate; ?>"><?php echo $text_affiliate; ?></a></li>
       <li><a href="<?php echo $special; ?>"><?php echo $text_special; ?></a></li>
-    </ul>
+    </ul>-->
   </div>
 </div>
 <!--
